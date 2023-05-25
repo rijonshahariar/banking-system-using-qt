@@ -1,0 +1,8 @@
+bank.pro
+images/logo.jpeg
+images/support_icon.jpeg
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+resources.qrc
